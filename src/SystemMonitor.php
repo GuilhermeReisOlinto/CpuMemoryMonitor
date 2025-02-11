@@ -24,10 +24,10 @@ class SystemMonitor
         $this->memoryThreshold = $memoryThreshold;
         $this->emailTo = $emailTo;
 
-        $this->emailFrom = "reis47468@gmail.com";
+        $this->emailFrom = "example@gmail.com";
         $this->smtpHost = "smtp.gmail.com";
-        $this->smtpUser = "reis47468@gmail.com";
-        $this->smtpPass = "Mirelly30@";
+        $this->smtpUser = "example@gmail.com";
+        $this->smtpPass = "examplesenha";
         $this->smtpPort = 587;
     }
 
